@@ -1,1 +1,1 @@
-Learn the basics of React from this little toy project.
+Learnt the basics of React from this little toy project.
